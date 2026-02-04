@@ -31,13 +31,13 @@ This creates a linearly separable dataset suitable for a single-layer perceptron
 ## How to Run
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/younus1082/Neural-Networks-Lab
+    cd https://github.com/younus1082/Neural-Networks-Lab
     ```
 
 2.  **Run the script:**
     ```bash
-    python perceptron_assignment.py
+    python Younus_1082_A2_la1.py
     ```
 
 ## Usage Example
